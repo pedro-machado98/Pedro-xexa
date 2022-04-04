@@ -1,4 +1,4 @@
-### Meu nome é Pedro Machado
+### Meu nome é Pedro Machado!
 
 
 - 🔭 Estou em busca do meu primeiro estagio!
@@ -7,6 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/Pedro-xexa">
-  <img height=180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-xexa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-xexa&layout=compact&langs_count=7&theme=dark"/>
+  <img height=180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-xexa&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-xexa&layout=compact&langs_count=2&theme=dark"/>
 </div>
