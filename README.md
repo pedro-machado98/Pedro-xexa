@@ -1,9 +1,9 @@
 ### Meu nome é Pedro Machado!
 
 
-- 🔭 Estou em busca do meu primeiro estagio!
-- 👨‍🎓 Curso analise e desenvolvimento de sistemas na FAETERJ
-- 🌱 Estudando Python pela CISCO.
+- 👨‍🎓 Curso análise e desenvolvimento de sistemas na FAETERJ
+- 🌱 Estagiario em desenvolvimento pela Abra Casa
+- 🔭 Estudando Node.js
 
 <div align="center">
   <a href="https://github.com/Pedro-xexa">
