@@ -2,5 +2,5 @@
 
 
 - 👨‍🎓 Curso análise e desenvolvimento de sistemas na FAETERJ
-- 🌱 Desenvolvedor Backend para Abracadabra
+- 🌱 Desenvolvedor Full-Stack para Abracadabra
 
